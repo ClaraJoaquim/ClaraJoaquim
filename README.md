@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4b89f8&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4b89f8&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Clara+Joaquim;Sou+estudante+de+análise+de+sistemas;Atuo+como+Desenvolvedora+WEB;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4b89f8&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Clara+Joaquim;Sou+estudante+de+análise+de+sistemas;Atuo+como+Desenvolvedora+FullStack;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
@@ -17,20 +17,27 @@
  
 <div style="display: inline_block"> 
   <h3>Principais Habilidades:</h3>
+  <img align="center" alt="C++" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Bootstrap" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"> 
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"> 
   <img align="center" alt="Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"> 
+  <img align="center" alt="Java" height="40" width=35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/> 
+  <img align="center" alt="Spring Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
+          
   
 
 <h3>Ferramentas:</h3>
-  <img align="center" alt="VS Code" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"> 
-  <img align="center" alt="Intellij" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"> 
-  <img align="center" alt="Git" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"> 
-  <img class="github" align="center" alt="GitHub" height="30" width=auto src="https://static-00.iconduck.com/assets.00/github-icon-2048x2048-eyd5tyuo.png">
+  <img align="center" alt="VS Code" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/> 
+  <img align="center" alt="Intellij" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/> 
+  <img align="center" alt="Intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" />      
+  <img align="center" alt="Git" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/> 
+  <img class="github" align="center" alt="GitHub" height="30" width=auto src="https://static-00.iconduck.com/assets.00/github-icon-2048x2048-eyd5tyuo.png"/> 
   
 <h3>Estudando no Momento:</h3>
-  <img align="center" alt="Java" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"> 
-  <img align="center" alt="Spring Boot" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"> 
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="React" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+          
+          
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4b89f8&height=120&section=footer"/>
