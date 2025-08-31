@@ -31,7 +31,7 @@
   <img align="center" alt="Intellij" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/> 
   <img align="center" alt="Intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" />      
   <img align="center" alt="Git" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/> 
-  <img class="github" align="center" alt="GitHub" height="30" width=auto src="https://static-00.iconduck.com/assets.00/github-icon-2048x2048-eyd5tyuo.png"/> 
+  <img class="github" align="center" alt="GitHub" height="30" width=auto src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   
 <h3>Estudando no Momento:</h3>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
